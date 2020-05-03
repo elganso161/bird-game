@@ -1,5 +1,3 @@
-alert('Поехали');
-
 let cvs = document.querySelector('#canvas');
 let ctx = cvs.getContext('2d');
 
